@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900617429469",
+    "firebase_url": "https://esp32-9a899.firebaseio.com",
+    "project_id": "esp32-9a899",
+    "storage_bucket": "esp32-9a899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900617429469:android:02fc5472a170bcf0e9d634",
+        "android_client_info": {
+          "package_name": "com.montassar.distributeurdespliles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900617429469-m35bnjebgurtsfnk7ehelfmrbhh7qjb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.montassar.distributeurdespliles",
+            "certificate_hash": "6beda410eab78a82d86c6f193069696350048298"
+          }
+        },
+        {
+          "client_id": "900617429469-flg32u3o6oc6f29c0kjpd40e3qfm0j1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN9SIFTW5kPC0w9BZW7ZLkv_NuUOX8EAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900617429469-flg32u3o6oc6f29c0kjpd40e3qfm0j1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
